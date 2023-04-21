@@ -1,2 +1,2 @@
 # Rock_Paper_Scissor.C-
-A C++ program
+A C program
